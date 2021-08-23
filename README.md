@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindhabii&label=Profile%20views&color=0e75b6&style=flat" alt="aravindhabii" /> </p>
 
-
+<h3 align="left">About Me</h3>
 
 - 🔭 I’m currently working on **An Ecommerce web application**
 
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **abiiaravindhr.it2020@citchennai.net**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aravindh-r-9834a6202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aravindh-r" height="30" width="40" /></a>
 <a href="https://instagram.com/aravindh_abii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aravindh_abii" height="30" width="40" /></a>
