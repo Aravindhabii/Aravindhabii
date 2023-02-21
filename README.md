@@ -5,7 +5,7 @@
 
 <h3 align="left">About Me</h3>
 
-- I am a developer with a vast array of knowledge in many different programming  languages, responsive frameworks, databases, and best code practices. My goal is simply to be the best developer I can be and to contribute everything I know and can do to the technology industry. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and working tirelessly to learn everything I can about development.**
+I am a developer with a vast array of knowledge in many different programming  languages, responsive frameworks, databases, and best code practices. My goal is simply to be the best developer I can be and to contribute everything I know and can do to the technology industry. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and working tirelessly to learn everything I can about development.
 
 
 <p align="left">
