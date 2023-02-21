@@ -5,13 +5,8 @@
 
 <h3 align="left">About Me</h3>
 
-- 🔭 I’m currently working on **An Ecommerce web application**
+- I am a developer with a vast array of knowledge in many different programming  languages, responsive frameworks, databases, and best code practices. My goal is simply to be the best developer I can be and to contribute everything I know and can do to the technology industry. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and working tirelessly to learn everything I can about development.**
 
-- 🌱 I’m currently learning **React js**
-
-- 👯 I’m looking to collaborate on **Web Development project**
-
-- 📫 How to reach me **abiiaravindhr.it2020@citchennai.net**
 
 <p align="left">
 <a href="https://linkedin.com/in/aravindh-r-9834a6202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aravindh-r" height="30" width="40" /></a>
